@@ -133,7 +133,7 @@ public class SpellWandItem extends Item {
                 for (int dz = -2; dz <= 2 && grown < 14; dz++) {
                     for (int dy = -1; dy <= 1 && grown < 14; dy++) {
                         BlockPos p = center.offset(dx, dy, dz);
-                        if (BoneMealItem.applyBonemeal(new ItemStack(Items.BONE_MEAL), server, p)) {
+                        if (BoneMealItem.growCrop(new ItemStack(Items.BONE_MEAL), server, p)) {
                             BoneMealItem.addGrowthParticles(server, p, 8);
                             grown++;
                         }
