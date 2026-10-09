@@ -1,0 +1,15 @@
+{
+  "name": "soulstealer:cat_statue_najtik",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "soulstealer:cat_statue_najtik",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

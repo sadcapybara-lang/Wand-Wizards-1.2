@@ -1,0 +1,15 @@
+{
+  "name": "soulstealer:cat_statue_zrzik",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "soulstealer:cat_statue_zrzik",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

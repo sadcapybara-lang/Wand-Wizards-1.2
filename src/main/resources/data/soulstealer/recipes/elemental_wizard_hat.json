@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "soulstealer:wizard_hat" },
+    { "item": "minecraft:blaze_powder" },
+    { "item": "minecraft:prismarine_crystals" },
+    { "item": "minecraft:emerald" }
+  ],
+  "result": { "item": "soulstealer:elemental_wizard_hat" }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "soulstealer:cat_statue_najtik",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 16,
+    "separation": 6,
+    "salt": 1587102005
+  }
+}

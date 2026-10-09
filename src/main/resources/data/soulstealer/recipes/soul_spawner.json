@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "SIS",
+    " S "
+  ],
+  "key": {
+    "E": { "item": "minecraft:ender_eye" },
+    "S": { "item": "minecraft:soul_sand" },
+    "I": { "item": "minecraft:iron_ingot" }
+  },
+  "result": {
+    "item": "soulstealer:soul_spawner"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "soulstealer:abandoned_tower_elemental",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "soulstealer:abandoned_tower_elemental",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

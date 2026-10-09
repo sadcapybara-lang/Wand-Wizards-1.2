@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" P ", "PGP", "PPP"],
+  "key": {
+    "P": { "item": "minecraft:purple_wool" },
+    "G": { "item": "minecraft:gold_ingot" }
+  },
+  "result": { "item": "soulstealer:wizard_hat" }
+}

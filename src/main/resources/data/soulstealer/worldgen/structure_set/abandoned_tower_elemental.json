@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "soulstealer:abandoned_tower_elemental",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 34,
+    "separation": 12,
+    "salt": 1587102002
+  }
+}
