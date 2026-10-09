@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "soulstealer:item/elemental_wizard_hat"
+  }
+}

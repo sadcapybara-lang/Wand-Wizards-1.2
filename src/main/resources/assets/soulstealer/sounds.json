@@ -1,0 +1,10 @@
+{
+  "boss_theme": {
+    "sounds": [ { "name": "soulstealer:music/boss_theme", "stream": true } ],
+    "subtitle": "soulstealer.subtitle.boss_theme"
+  },
+  "boss_rage_theme": {
+    "sounds": [ { "name": "soulstealer:music/boss_rage_theme", "stream": true } ],
+    "subtitle": "soulstealer.subtitle.boss_rage_theme"
+  }
+}
